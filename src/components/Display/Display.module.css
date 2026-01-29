@@ -1,0 +1,14 @@
+.display {
+  background-color: #222;
+  color: #fff;
+  font-size: 2.5em;
+  padding: 20px;
+  text-align: right;
+  grid-column: 1 / -1;
+  min-height: 50px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+  word-break: break-all;
+  overflow: hidden;
+}
