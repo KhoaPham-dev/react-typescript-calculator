@@ -1,0 +1,11 @@
+.calculator {
+  display: grid;
+  grid-template-rows: 1fr auto;
+  width: 300px;
+  border: 1px solid #333;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+  margin: 50px auto;
+  background-color: #1a1a1a;
+}
